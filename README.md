@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cristianmanay.vercel.app/](https://cristianmanay.vercel.app/)
 
-- 📝 I regularly write articles on [https://cristianmanay.vercel.app/blog](https://cristianmanay.vercel.app/blog)
+<!-- - 📝 I regularly write articles on [https://cristianmanay.vercel.app/blog](https://cristianmanay.vercel.app/blog) -->
 
 - 💬 Ask me about **JavaScript, ReactJs, NextJS, Laravel, API**
 
